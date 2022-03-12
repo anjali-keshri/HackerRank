@@ -8,4 +8,10 @@
 
 [View Profile](https://www.hackerrank.com/anjali_keshri191)
 
-## HackerRank Badges
+## HackerRank Certificates
+[Java (Basic) Certificate](https://www.hackerrank.com/certificates/53249c663fe6)
+
+[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/f6d39b6aecd2)
+
+[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/95066da16d61)
+
